@@ -1,0 +1,52 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0 ;
+  padding: 0;
+  text-decoration: none;
+  
+}
+body{
+  background-color: #f3f3f3;
+}
+
+.content{
+  background-color: #fff;
+  padding: 20px;
+  max-width: 800px;
+  margin: 30px auto;
+}
+.add_btn{
+  display: flex;
+  justify-content: end;
+  margin-bottom: 20px;
+}
+.table_container{
+ 
+
+}
+
+.action{
+  display: flex;
+}
+.view{
+  padding: 5px;
+  font-size: 40px;
+  
+}
+.view:hover{
+  color: rgba(48, 48, 251, 0.817);
+}
+.edit{
+  padding: 5px;
+  font-size: 40px;
+}
+.edit:hover{
+  color: rgba(221, 221, 10, 0.77);
+}
+.delete{
+  padding: 5px;
+  font-size: 40px;
+}
+.delete:hover{
+  color: rgba(248, 3, 3, 0.837);
+}
